@@ -22,7 +22,7 @@ cmd
 
 cd e:/project/watcherService/bin/release(debug)/
 
-installUtil BbsFileWatcher -u
+installUtil BbsFileWatcher.exe -u
 
 
 启动服务
