@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\JsonUtil\bin\Debug\JsonUtil.dll
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\JsonUtil\bin\Debug\JsonUtil.pdb
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\JsonUtil\obj\Debug\JsonUtil.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\JsonUtil\obj\Debug\JsonUtil.dll
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\JsonUtil\obj\Debug\JsonUtil.pdb

@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\bin\Release\BbsFileWatcher.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\obj\Release\BbsFileWatcher.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\bin\Release\BbsFileWatcher.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\bin\Release\BbsFileWatcher.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\bin\Release\JsonUtil.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\bin\Release\JsonUtil.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\obj\Release\BbsFileWatcher.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\obj\Release\BbsFileWatcher.pdb
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\obj\Release\BbsFileWatcher.BbsWatcher.resources
+C:\Users\Administrator\Documents\visual studio 2013\Projects\ServerFileWatcherService\BbsFileWatcher\obj\Release\BbsFileWatcher.csproj.GenerateResource.Cache
