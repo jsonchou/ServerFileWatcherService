@@ -11,23 +11,23 @@ namespace BbsFileWatcher
     class My
     {
         //日志文件
-        private static string logfile = @"D:\Web\bbs.52wuhan.com\upload\data\sysdata.log";
+        private static string logfile = @"D:\Web\upload\data\sysdata.log";
         //退出程序命令
         private const String Exit = "exit";
         //监视的文件夹
-        private const String folder = @"D:\Web\bbs.52wuhan.com\upload\data\sysdata";
-        private const String cloneFolder = @"D:\Web\bbs.52wuhan.com\upload\data\_cloneSysdata\sysdata";
+        private const String folder = @"D:\Web\upload\data\sysdata";
+        private const String cloneFolder = @"D:\Web\upload\data\_cloneSysdata\sysdata";
         private static FileSystemWatcher _fsw;
 
         //邮件配置信息
 
         private static string senderServerIp = "smtp.163.com";
-        private static string toMailAddress = "527426267@qq.com";
-        private static string fromMailAddress = "onlyone_329@163.com";
-        private static string subjectInfo = "我擦，我爱武汉网站又被人攻击了";
-        private static string bodyInfo = "bbs.52wuhan.com网站又被人攻击了";
-        private static string mailUsername = "onlyone_329@163.com";
-        private static string mailPassword = "amwewihcv128";
+        private static string toMailAddress = "123456@qq.com";
+        private static string fromMailAddress = "mail@163.com";
+        private static string subjectInfo = "我擦，大飞网网站又被人攻击了";
+        private static string bodyInfo = "bbs.demo.com网站又被人攻击了";
+        private static string mailUsername = "mail@163.com";
+        private static string mailPassword = "password";
         private static string mailPort = "25";
         private static string attachPath = "";
 
